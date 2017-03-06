@@ -1,0 +1,75 @@
+{
+  "name": "ivan-maksimovic-cv",
+  "version": "2.0.0",
+  "description": "Ivan Maksimovic - Curriculum Vitae",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "problem-solver",
+    "front-end",
+    "back-end",
+    "nice",
+    "team-player",
+    "adventurer"
+  ],
+  "author": "Ivan Maksimovic",
+  "license": "ISC",
+  "personalData": {
+    "name": "Ivan Maksimovic",
+    "birthDate": "04. May 1981",
+    "address": "Bolinders plan 2B, 11224 Stockholm",
+    "phone": "+46728404628",
+    "email": "ivnmaksimovic@gmail.com"
+  },
+  "technologies": [
+    {
+      "name": "React, Redux, Git, Node, NPM, Grunt, Browserify, Babel, Jasmine, Mocha, HTML5, CSS3, SCSS, Foundation...",
+      "comment": "Stuff that I use on daily work"
+    },
+    {
+      "name": "Symfony2, PHP, MySQL, Doctrine2, static site generators...",
+      "comment": "Stuff that I used a lot before but not using on daily job"
+    },
+    {
+      "name": "Meteor, Mongo DB, Django, Angular, Rails, Python...",
+      "comment": "Stuff that I just tried or tested but not used much"
+    },
+    {
+      "name": "Various 2D and 3D drawing programs like AutoCAD, ArchiCAD, Cinema 4D, SketchUp, Adobe Illustrator, Photoshop...",
+      "comment": "Stuff that I am very very good at, but not using much anymore"
+    }
+  ],
+  "skills": [
+    "Fast learning",
+    "One hand wheelie"
+  ],
+  "workExperience": {
+    "current": "Frontend developer at Kambi in Stockholm",
+    "previous": "Since January 2013. until March 2017. I worked as Front-end developer at Lekmer AB. As only front-ender in team I had a lot " +
+      "of responsibilities and initiatives. From architecture, build systems, deployment processes, dealing with 3rd " +
+      "party scripts, performance optimizations, new features, maintainance...",
+    "past": "Years of freelance web development, 3D modeling and rendering, interior design. Author of opensource " +
+    "e-commerce 'minishop' (https://github.com/ivnmaksimovic/minishop)",
+    "other": "Kitchen and furniture designer in Ramin D.O.O. (maj 2010. - maj 2011.)"
+  },
+  "education": [
+    "Elementary education in duration of 8 years, starting from 1988",
+    "High school in duration of 4 years. Systems of automatic controls at Electro Technical school 'Nikola Tesla' in Kraljevo",
+    "Completed course of studies on Architecture University in Belgrade."
+  ],
+  "other": [
+    "Qualified for Mensa membership on official testing. According to Mensa I am in 2% of population with IQ score above 155",
+    "Google Analytics Certificated partner",
+    "Advance photography knowledge",
+    "Driving licence, B category"
+  ],
+  "languages": {
+    "motherTongue": "Serbian",
+    "veryGood": "English",
+    "stillLearning": "Swedish"
+  },
+  "interests": "Snowboarding, Downhill mountain biking, kitesurfing, music, underwater spearfishing...",
+  "general": "Curious, communicative, able to work individually and in team, responsible, ambitious."
+}
